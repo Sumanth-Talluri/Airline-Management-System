@@ -38,5 +38,5 @@ For simplicity I used :
 
 so that you guys can check it out and add or delete data to see how the changes are shown in the website.
 
-:computer: **View Course [here](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)**
+:computer: &nbsp; **View Course [here](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)**
 
